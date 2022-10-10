@@ -2,9 +2,9 @@
 
 ## AWS: Cloud Servers
 
-[GUI cloud-server]('http://cloudserver-env.eba-4jnsw2j4.us-west-2.elasticbeanstalk.com/'),
+[GUI cloud-server](http://cloudserver-env.eba-4jnsw2j4.us-west-2.elasticbeanstalk.com/),
 
-[Manually	cloud-server2]('http://cloud-server2.eba-nxsvi5iy.us-west-2.elasticbeanstalk.com/'),
+[Manually	cloud-server2](http://cloud-server2.eba-nxsvi5iy.us-west-2.elasticbeanstalk.com/),
 
 ## Feature Tasks
 
